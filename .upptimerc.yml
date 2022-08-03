@@ -1,31 +1,65 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: SystemInternal # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: System.com
+    url: https://www.system.com
+  - name: Graph
+    url: $GET_CONCEPT_GRAPH
+    maxResponseTime: 6000
+    headers:
+      - "x-api-key: $X_API_KEY"
+  - name: GET Studies
+    url: $GET_STUDIES
+    maxResponseTime: 500
+    headers:
+      - "x-api-key: $X_API_KEY"
+  - name: GET Features
+    url: $GET_FEATURES
+    maxResponseTime: 500
+    headers:
+      - "x-api-key: $X_API_KEY"
+  - name: GET Models
+    url: $GET_MODELS
+    maxResponseTime: 500
+    headers:
+      - "x-api-key: $X_API_KEY"
+  - name: GET Datasets
+    url: $GET_DATASETS
+    maxResponseTime: 500
+    headers:
+      - "x-api-key: $X_API_KEY"
+  - name: GET Topics
+    url: $GET_TOPICS
+    maxResponseTime: 500
+    headers:
+      - "x-api-key: $X_API_KEY"
+  - name: GET Metrics
+    url: $GET_METRICS
+    maxResponseTime: 500
+    headers:
+      - "x-api-key: $X_API_KEY"
+
+assignees:
+  - jamessystem
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /uptime
+  logoUrl: https://raw.githubusercontent.com/SystemInternal/uptime/master/assets/logo.png
+  name: System
+  introTitle: "**System**'s real-time status dashboard."
+  introMessage: System is a free, open, and living public resource that aims to explain how anything in the world is related to everything else. 
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: System.com
+      href: https://www.system.com
+    - title: Dashboard
+      href: /uptime/
+    - title: Github
+      href: https://github.com/SystemInternal/uptime/
+    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
