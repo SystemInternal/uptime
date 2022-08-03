@@ -22,19 +22,19 @@
     "url": "$GET_CONCEPT_GRAPH",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "graph",
-    "status": "degraded",
-    "uptime": "92.97%",
-    "uptimeDay": "92.97%",
-    "uptimeWeek": "92.97%",
-    "uptimeMonth": "92.97%",
-    "uptimeYear": "92.97%",
-    "time": 7055,
-    "timeDay": 7055,
-    "timeWeek": 7055,
-    "timeMonth": 7055,
-    "timeYear": 7055,
+    "status": "up",
+    "uptime": "87.78%",
+    "uptimeDay": "87.78%",
+    "uptimeWeek": "87.78%",
+    "uptimeMonth": "87.78%",
+    "uptimeYear": "87.78%",
+    "time": 6862,
+    "timeDay": 6862,
+    "timeWeek": 6862,
+    "timeMonth": 6862,
+    "timeYear": 6862,
     "dailyMinutesDown": {
-      "2022-08-03": 8
+      "2022-08-03": 15
     }
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-features",
     "status": "up",
-    "uptime": "93.05%",
-    "uptimeDay": "93.05%",
-    "uptimeWeek": "93.05%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "93.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 301,
     "timeDay": 301,
     "timeWeek": 301,
     "timeMonth": 301,
     "timeYear": 301,
-    "dailyMinutesDown": {
-      "2022-08-03": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GET Models",
