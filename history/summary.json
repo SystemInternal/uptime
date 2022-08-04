@@ -22,19 +22,19 @@
     "url": "$GET_CONCEPT_GRAPH",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "graph",
-    "status": "up",
-    "uptime": "96.96%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "96.96%",
+    "status": "degraded",
+    "uptime": "98.09%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.09%",
     "time": 7048,
     "timeDay": 7048,
     "timeWeek": 7048,
     "timeMonth": 7048,
     "timeYear": 7048,
     "dailyMinutesDown": {
-      "2022-08-04": 7,
+      "2022-08-04": 0,
       "2022-08-03": 15
     }
   },
@@ -44,18 +44,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-studies",
     "status": "up",
-    "uptime": "92.42%",
-    "uptimeDay": "92.42%",
-    "uptimeWeek": "92.42%",
-    "uptimeMonth": "92.42%",
-    "uptimeYear": "92.42%",
+    "uptime": "93.93%",
+    "uptimeDay": "93.93%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "93.93%",
+    "uptimeYear": "93.93%",
     "time": 522,
     "timeDay": 522,
     "timeWeek": 522,
     "timeMonth": 522,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2022-08-04": 56
+      "2022-08-04": 49
     }
   },
   {
@@ -64,19 +64,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-features",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 342,
     "timeDay": 342,
     "timeWeek": 342,
     "timeMonth": 342,
     "timeYear": 342,
-    "dailyMinutesDown": {
-      "2022-08-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GET Models",
@@ -84,19 +82,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-models",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 446,
     "timeDay": 446,
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
-    "dailyMinutesDown": {
-      "2022-08-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GET Datasets",
@@ -104,19 +100,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-datasets",
     "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 444,
     "timeDay": 444,
     "timeWeek": 444,
     "timeMonth": 444,
     "timeYear": 444,
-    "dailyMinutesDown": {
-      "2022-08-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GET Topics",
@@ -124,19 +118,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-topics",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 287,
     "timeWeek": 287,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {
-      "2022-08-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GET Metrics",
@@ -144,18 +136,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-metrics",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 384,
     "timeDay": 384,
     "timeWeek": 384,
     "timeMonth": 384,
     "timeYear": 384,
-    "dailyMinutesDown": {
-      "2022-08-04": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
