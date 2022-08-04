@@ -22,19 +22,19 @@
     "url": "$GET_CONCEPT_GRAPH",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "graph",
-    "status": "up",
-    "uptime": "96.48%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "96.48%",
-    "time": 7005,
-    "timeDay": 7005,
-    "timeWeek": 7005,
-    "timeMonth": 7005,
-    "timeYear": 7005,
+    "status": "degraded",
+    "uptime": "97.77%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "97.77%",
+    "time": 6970,
+    "timeDay": 6970,
+    "timeWeek": 6970,
+    "timeMonth": 6970,
+    "timeYear": 6970,
     "dailyMinutesDown": {
-      "2022-08-04": 6,
+      "2022-08-04": 0,
       "2022-08-03": 15
     }
   },
@@ -44,18 +44,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-studies",
     "status": "up",
-    "uptime": "91.03%",
-    "uptimeDay": "91.03%",
-    "uptimeWeek": "91.03%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "91.03%",
+    "uptime": "92.92%",
+    "uptimeDay": "92.92%",
+    "uptimeWeek": "92.92%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "92.92%",
     "time": 510,
     "timeDay": 510,
     "timeWeek": 510,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2022-08-04": 55
+      "2022-08-04": 49
     }
   },
   {
@@ -100,19 +100,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-datasets",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 364,
     "timeDay": 364,
     "timeWeek": 364,
     "timeMonth": 364,
     "timeYear": 364,
-    "dailyMinutesDown": {
-      "2022-08-04": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GET Topics",
