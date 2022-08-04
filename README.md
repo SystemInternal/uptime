@@ -1,6 +1,6 @@
 # [📈 Live Status](https://SystemInternal.github.io/uptime): <!--live status--> **🟨 Degraded performance**
 
-This repository contains the open-source uptime monitor and status page for [System Inc.](system.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [System Inc.](https://www.system.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/SystemInternal/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/SystemInternal/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/SystemInternal/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/SystemInternal/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
