@@ -1,7 +1,7 @@
 url: $GET_CONCEPT_GRAPH
-status: up
+status: degraded
 code: 200
-responseTime: 6366
-lastUpdated: 2022-08-08T23:05:28.641Z
+responseTime: 12575
+lastUpdated: 2022-08-08T23:27:50.996Z
 startTime: Wed Aug 03 2022 21:39:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
