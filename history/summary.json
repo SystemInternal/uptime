@@ -44,11 +44,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-studies",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "98.43%",
     "uptimeWeek": "98.07%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
     "time": 680,
     "timeDay": 670,
     "timeWeek": 694,
@@ -155,17 +155,19 @@
     "url": "$GET_METRICS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "get-metrics",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 402,
-    "timeWeek": 436,
-    "timeMonth": 481,
-    "timeYear": 481,
-    "dailyMinutesDown": {}
+    "time": 483,
+    "timeDay": 437,
+    "timeWeek": 445,
+    "timeMonth": 483,
+    "timeYear": 483,
+    "dailyMinutesDown": {
+      "2022-08-29": 0
+    }
   }
 ]
