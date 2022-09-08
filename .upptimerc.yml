@@ -5,9 +5,9 @@ repo: uptime # The name of this repository
 sites:
   - name: System.com
     url: https://www.system.com
-  - name: Graph
-    url: $GET_CONCEPT_GRAPH
-    maxResponseTime: 10000
+  - name: GET Topic Graph
+    url: $GET_TOPIC_GRAPH
+    maxResponseTime: 1000
     headers:
       - "x-api-key: $X_API_KEY"
   - name: GET Studies
