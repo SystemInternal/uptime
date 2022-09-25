@@ -1,7 +1,7 @@
 url: $GET_TOPICS
-status: degraded
+status: up
 code: 200
-responseTime: 819
-lastUpdated: 2022-09-25T05:58:00.967Z
+responseTime: 145
+lastUpdated: 2022-09-25T06:08:14.872Z
 startTime: Wed Aug 03 2022 21:39:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
