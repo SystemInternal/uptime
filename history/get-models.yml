@@ -1,7 +1,7 @@
 url: $GET_MODELS
-status: up
-code: 200
-responseTime: 235
-lastUpdated: 2022-10-20T00:12:16.301Z
+status: degraded
+code: 504
+responseTime: 29070
+lastUpdated: 2022-10-20T01:04:14.674Z
 startTime: Wed Aug 03 2022 21:39:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
