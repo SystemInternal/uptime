@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-topic-graph",
     "status": "up",
-    "uptime": "69.86%",
+    "uptime": "69.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "67.19%",
     "uptimeMonth": "41.70%",
-    "uptimeYear": "69.86%",
+    "uptimeYear": "69.91%",
     "time": 3450,
     "timeDay": 2264,
-    "timeWeek": 4480,
+    "timeWeek": 4350,
     "timeMonth": 4585,
     "timeYear": 3450,
     "dailyMinutesDown": {
@@ -69,15 +69,15 @@
     "url": "$GET_STUDIES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-studies",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "98.83%",
+    "status": "degraded",
+    "uptime": "98.14%",
+    "uptimeDay": "98.82%",
     "uptimeWeek": "95.33%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "98.12%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "98.14%",
     "time": 913,
-    "timeDay": 713,
-    "timeWeek": 1894,
+    "timeDay": 741,
+    "timeWeek": 1885,
     "timeMonth": 1221,
     "timeYear": 913,
     "dailyMinutesDown": {
@@ -137,8 +137,7 @@
       "2022-08-20": 16,
       "2022-08-19": 21,
       "2022-08-18": 39,
-      "2022-08-17": 17,
-      "2022-08-15": 16
+      "2022-08-17": 17
     }
   },
   {
@@ -175,7 +174,7 @@
     "uptimeYear": "99.58%",
     "time": 833,
     "timeDay": 593,
-    "timeWeek": 2690,
+    "timeWeek": 2880,
     "timeMonth": 1457,
     "timeYear": 833,
     "dailyMinutesDown": {
@@ -212,7 +211,7 @@
     "uptimeYear": "99.60%",
     "time": 986,
     "timeDay": 6157,
-    "timeWeek": 1130,
+    "timeWeek": 1161,
     "timeMonth": 996,
     "timeYear": 986,
     "dailyMinutesDown": {
@@ -271,7 +270,7 @@
     "uptimeYear": "99.74%",
     "time": 828,
     "timeDay": 239,
-    "timeWeek": 1401,
+    "timeWeek": 1471,
     "timeMonth": 1515,
     "timeYear": 828,
     "dailyMinutesDown": {
