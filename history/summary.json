@@ -25,7 +25,7 @@
     "status": "up",
     "uptime": "71.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.69%",
+    "uptimeWeek": "89.76%",
     "uptimeMonth": "41.71%",
     "uptimeYear": "71.52%",
     "time": 3280,
@@ -70,15 +70,15 @@
     "url": "$GET_STUDIES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-studies",
-    "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "91.97%",
-    "uptimeWeek": "94.29%",
+    "status": "degraded",
+    "uptime": "98.18%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "94.28%",
     "uptimeMonth": "96.29%",
-    "uptimeYear": "98.17%",
+    "uptimeYear": "98.18%",
     "time": 1027,
-    "timeDay": 5789,
-    "timeWeek": 2543,
+    "timeDay": 5614,
+    "timeWeek": 2533,
     "timeMonth": 1510,
     "timeYear": 1027,
     "dailyMinutesDown": {
@@ -131,8 +131,7 @@
       "2022-09-07": 82,
       "2022-09-06": 16,
       "2022-09-05": 24,
-      "2022-09-02": 16,
-      "2022-09-01": 16
+      "2022-09-02": 16
     }
   },
   {
