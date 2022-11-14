@@ -1,7 +1,7 @@
 url: $GET_TOPIC_GRAPH
-status: up
-code: 200
-responseTime: 545
-lastUpdated: 2022-11-14T14:46:18.336Z
+status: degraded
+code: 500
+responseTime: 23925
+lastUpdated: 2022-11-14T18:41:53.897Z
 startTime: Thu Sep 08 2022 19:59:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
