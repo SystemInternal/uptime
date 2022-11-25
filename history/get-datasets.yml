@@ -1,7 +1,7 @@
 url: $GET_DATASETS
-status: up
+status: degraded
 code: 200
-responseTime: 380
-lastUpdated: 2022-11-25T15:36:06.103Z
+responseTime: 4283
+lastUpdated: 2022-11-25T15:43:41.735Z
 startTime: Wed Aug 03 2022 21:39:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
