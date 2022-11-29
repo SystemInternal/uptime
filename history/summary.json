@@ -26,7 +26,7 @@
     "uptime": "60.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.98%",
+    "uptimeMonth": "42.96%",
     "uptimeYear": "60.14%",
     "time": 3739,
     "timeDay": 0,
@@ -34,7 +34,7 @@
     "timeMonth": 4726,
     "timeYear": 3739,
     "dailyMinutesDown": {
-      "2022-11-29": 938,
+      "2022-11-29": 945,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
@@ -90,18 +90,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-studies",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "94.82%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.37%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "94.84%",
+    "uptimeYear": "98.37%",
     "time": 1466,
     "timeDay": 903,
     "timeWeek": 943,
     "timeMonth": 2370,
     "timeYear": 1466,
     "dailyMinutesDown": {
-      "2022-11-29": 30,
+      "2022-11-29": 22,
       "2022-11-28": 41,
       "2022-11-26": 20,
       "2022-11-25": 69,
@@ -137,7 +137,7 @@
       "2022-10-24": 72,
       "2022-10-23": 38,
       "2022-10-20": 16,
-      "2022-10-19": 54
+      "2022-10-19": 72
     }
   },
   {
@@ -180,7 +180,7 @@
     "uptimeYear": "98.75%",
     "time": 1721,
     "timeDay": 2148,
-    "timeWeek": 1428,
+    "timeWeek": 1430,
     "timeMonth": 2407,
     "timeYear": 1721,
     "dailyMinutesDown": {
@@ -303,17 +303,17 @@
     "url": "$GET_METRICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-metrics",
-    "status": "up",
-    "uptime": "94.83%",
-    "uptimeDay": "13.21%",
-    "uptimeWeek": "14.59%",
-    "uptimeMonth": "79.98%",
-    "uptimeYear": "94.83%",
-    "time": 1165,
-    "timeDay": 1725,
-    "timeWeek": 1239,
+    "status": "degraded",
+    "uptime": "94.87%",
+    "uptimeDay": "13.22%",
+    "uptimeWeek": "14.66%",
+    "uptimeMonth": "80.14%",
+    "uptimeYear": "94.87%",
+    "time": 1166,
+    "timeDay": 1758,
+    "timeWeek": 1240,
     "timeMonth": 1325,
-    "timeYear": 1165,
+    "timeYear": 1166,
     "dailyMinutesDown": {
       "2022-11-29": 874,
       "2022-11-28": 1197,
@@ -322,7 +322,7 @@
       "2022-11-25": 1288,
       "2022-11-24": 1273,
       "2022-11-23": 1230,
-      "2022-11-22": 535
+      "2022-11-22": 464
     }
   }
 ]
