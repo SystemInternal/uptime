@@ -1,7 +1,7 @@
 url: $GET_METRICS
-status: up
+status: degraded
 code: 200
-responseTime: 448
-lastUpdated: 2022-12-07T19:16:08.877Z
+responseTime: 862
+lastUpdated: 2022-12-07T19:23:40.189Z
 startTime: Wed Aug 03 2022 21:39:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
