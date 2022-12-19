@@ -1,7 +1,7 @@
 url: $GET_STUDIES
-status: degraded
+status: up
 code: 200
-responseTime: 1434
-lastUpdated: 2022-12-19T16:43:49.339Z
+responseTime: 312
+lastUpdated: 2022-12-19T16:52:45.073Z
 startTime: Wed Aug 03 2022 21:39:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
