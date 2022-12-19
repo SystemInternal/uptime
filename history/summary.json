@@ -34,7 +34,7 @@
     "timeMonth": 20454,
     "timeYear": 4776,
     "dailyMinutesDown": {
-      "2022-12-19": 806,
+      "2022-12-19": 814,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
@@ -205,7 +205,7 @@
     "uptimeYear": "98.73%",
     "time": 1615,
     "timeDay": 1960,
-    "timeWeek": 1597,
+    "timeWeek": 1605,
     "timeMonth": 1394,
     "timeYear": 1615,
     "dailyMinutesDown": {
@@ -272,7 +272,7 @@
     "uptimeYear": "98.77%",
     "time": 1409,
     "timeDay": 1630,
-    "timeWeek": 1390,
+    "timeWeek": 1388,
     "timeMonth": 1276,
     "timeYear": 1409,
     "dailyMinutesDown": {
@@ -336,15 +336,15 @@
     "url": "$GET_METRICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-metrics",
-    "status": "up",
-    "uptime": "95.80%",
-    "uptimeDay": "11.81%",
-    "uptimeWeek": "17.41%",
-    "uptimeMonth": "80.99%",
-    "uptimeYear": "95.80%",
+    "status": "degraded",
+    "uptime": "95.98%",
+    "uptimeDay": "12.33%",
+    "uptimeWeek": "20.90%",
+    "uptimeMonth": "81.80%",
+    "uptimeYear": "95.98%",
     "time": 1161,
-    "timeDay": 1033,
-    "timeWeek": 1252,
+    "timeDay": 1029,
+    "timeWeek": 1251,
     "timeMonth": 1109,
     "timeYear": 1161,
     "dailyMinutesDown": {
@@ -354,8 +354,7 @@
       "2022-12-16": 1242,
       "2022-12-15": 1181,
       "2022-12-14": 1233,
-      "2022-12-13": 1334,
-      "2022-12-12": 56
+      "2022-12-13": 1037
     }
   }
 ]
