@@ -34,7 +34,7 @@
     "timeMonth": 21019,
     "timeYear": 4865,
     "dailyMinutesDown": {
-      "2022-12-22": 371,
+      "2022-12-22": 383,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
@@ -112,18 +112,19 @@
     "url": "$GET_STUDIES",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-studies",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "97.66%",
     "uptimeYear": "98.67%",
-    "time": 1450,
-    "timeDay": 4207,
-    "timeWeek": 2110,
-    "timeMonth": 1294,
-    "timeYear": 1450,
+    "time": 1451,
+    "timeDay": 4130,
+    "timeWeek": 2115,
+    "timeMonth": 1296,
+    "timeYear": 1451,
     "dailyMinutesDown": {
+      "2022-12-22": 0,
       "2022-12-16": 20,
       "2022-12-15": 48,
       "2022-12-14": 36,
@@ -164,8 +165,7 @@
       "2022-11-04": 34,
       "2022-11-03": 53,
       "2022-11-02": 119,
-      "2022-11-01": 30,
-      "2022-10-31": 15
+      "2022-11-01": 30
     }
   },
   {
@@ -181,7 +181,7 @@
     "uptimeYear": "99.81%",
     "time": 2414,
     "timeDay": 0,
-    "timeWeek": 2932,
+    "timeWeek": 3035,
     "timeMonth": 2616,
     "timeYear": 2414,
     "dailyMinutesDown": {
@@ -343,17 +343,17 @@
     "url": "$GET_METRICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-metrics",
-    "status": "up",
-    "uptime": "96.02%",
-    "uptimeDay": "26.23%",
-    "uptimeWeek": "20.21%",
-    "uptimeMonth": "81.64%",
-    "uptimeYear": "96.02%",
-    "time": 1150,
-    "timeDay": 997,
+    "status": "degraded",
+    "uptime": "96.07%",
+    "uptimeDay": "26.67%",
+    "uptimeWeek": "21.14%",
+    "uptimeMonth": "81.85%",
+    "uptimeYear": "96.07%",
+    "time": 1149,
+    "timeDay": 992,
     "timeWeek": 1013,
     "timeMonth": 1155,
-    "timeYear": 1150,
+    "timeYear": 1149,
     "dailyMinutesDown": {
       "2022-12-22": 212,
       "2022-12-21": 1156,
@@ -362,7 +362,7 @@
       "2022-12-18": 1268,
       "2022-12-17": 1306,
       "2022-12-16": 1242,
-      "2022-12-15": 342
+      "2022-12-15": 249
     }
   }
 ]
