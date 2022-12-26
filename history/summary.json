@@ -34,7 +34,7 @@
     "timeMonth": 22140,
     "timeYear": 5047,
     "dailyMinutesDown": {
-      "2022-12-26": 238,
+      "2022-12-26": 246,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
@@ -117,18 +117,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-studies",
     "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.72%",
+    "uptime": "98.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.70%",
     "time": 1421,
     "timeDay": 937,
     "timeWeek": 1867,
     "timeMonth": 1274,
     "timeYear": 1421,
     "dailyMinutesDown": {
-      "2022-12-26": 6,
       "2022-12-25": 26,
       "2022-12-22": 20,
       "2022-12-16": 20,
@@ -170,7 +169,7 @@
       "2022-11-05": 101,
       "2022-11-04": 34,
       "2022-11-03": 53,
-      "2022-11-02": 70
+      "2022-11-02": 119
     }
   },
   {
@@ -212,7 +211,7 @@
     "uptimeMonth": "98.70%",
     "uptimeYear": "98.75%",
     "time": 1556,
-    "timeDay": 1018,
+    "timeDay": 1051,
     "timeWeek": 1216,
     "timeMonth": 1343,
     "timeYear": 1556,
@@ -281,9 +280,9 @@
     "uptimeMonth": "97.22%",
     "uptimeYear": "98.87%",
     "time": 1359,
-    "timeDay": 921,
+    "timeDay": 929,
     "timeWeek": 1130,
-    "timeMonth": 1230,
+    "timeMonth": 1229,
     "timeYear": 1359,
     "dailyMinutesDown": {
       "2022-12-26": 28,
@@ -350,15 +349,15 @@
     "url": "$GET_METRICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-metrics",
-    "status": "up",
-    "uptime": "97.17%",
-    "uptimeDay": "24.04%",
-    "uptimeWeek": "41.71%",
-    "uptimeMonth": "86.59%",
-    "uptimeYear": "97.17%",
+    "status": "degraded",
+    "uptime": "97.20%",
+    "uptimeDay": "24.58%",
+    "uptimeWeek": "42.21%",
+    "uptimeMonth": "86.70%",
+    "uptimeYear": "97.20%",
     "time": 1135,
-    "timeDay": 954,
-    "timeWeek": 993,
+    "timeDay": 957,
+    "timeWeek": 994,
     "timeMonth": 1141,
     "timeYear": 1135,
     "dailyMinutesDown": {
@@ -368,7 +367,7 @@
       "2022-12-23": 1133,
       "2022-12-22": 1047,
       "2022-12-21": 1156,
-      "2022-12-20": 223
+      "2022-12-20": 172
     }
   }
 ]
