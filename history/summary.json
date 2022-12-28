@@ -34,7 +34,7 @@
     "timeMonth": 22421,
     "timeYear": 5151,
     "dailyMinutesDown": {
-      "2022-12-28": 190,
+      "2022-12-28": 201,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -275,18 +275,19 @@
     "url": "$GET_DATASETS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-datasets",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "96.66%",
+    "status": "degraded",
+    "uptime": "98.91%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "96.65%",
     "uptimeMonth": "96.98%",
-    "uptimeYear": "98.90%",
-    "time": 1360,
-    "timeDay": 1372,
-    "timeWeek": 1134,
-    "timeMonth": 1214,
-    "timeYear": 1360,
+    "uptimeYear": "98.91%",
+    "time": 1361,
+    "timeDay": 1387,
+    "timeWeek": 1127,
+    "timeMonth": 1215,
+    "timeYear": 1361,
     "dailyMinutesDown": {
+      "2022-12-28": 1,
       "2022-12-27": 78,
       "2022-12-26": 89,
       "2022-12-25": 127,
@@ -319,7 +320,7 @@
       "2022-11-25": 287,
       "2022-11-24": 230,
       "2022-11-23": 244,
-      "2022-11-22": 102
+      "2022-11-22": 82
     }
   },
   {
@@ -351,25 +352,25 @@
     "url": "$GET_METRICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-metrics",
-    "status": "up",
-    "uptime": "97.16%",
-    "uptimeDay": "31.60%",
-    "uptimeWeek": "40.69%",
-    "uptimeMonth": "86.35%",
-    "uptimeYear": "97.16%",
+    "status": "degraded",
+    "uptime": "97.18%",
+    "uptimeDay": "32.33%",
+    "uptimeWeek": "41.02%",
+    "uptimeMonth": "86.43%",
+    "uptimeYear": "97.18%",
     "time": 1132,
-    "timeDay": 1009,
-    "timeWeek": 1023,
+    "timeDay": 1005,
+    "timeWeek": 1022,
     "timeMonth": 1119,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2022-12-28": 190,
+      "2022-12-28": 191,
       "2022-12-27": 914,
       "2022-12-26": 1242,
       "2022-12-25": 1061,
       "2022-12-24": 1039,
       "2022-12-23": 1133,
-      "2022-12-22": 399
+      "2022-12-22": 365
     }
   }
 ]
