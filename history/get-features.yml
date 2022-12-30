@@ -1,7 +1,7 @@
 url: $GET_FEATURES
-status: up
+status: degraded
 code: 200
-responseTime: 163
-lastUpdated: 2022-12-30T16:12:25.594Z
+responseTime: 531
+lastUpdated: 2022-12-30T21:34:00.198Z
 startTime: Wed Aug 03 2022 21:39:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
