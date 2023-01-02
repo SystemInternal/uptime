@@ -34,7 +34,7 @@
     "timeMonth": 22941,
     "timeYear": 5428,
     "dailyMinutesDown": {
-      "2023-01-02": 717,
+      "2023-01-02": 726,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
@@ -125,9 +125,9 @@
     "slug": "get-studies",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "98.79%",
     "time": 1406,
     "timeDay": 816,
@@ -135,7 +135,6 @@
     "timeMonth": 1298,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2023-01-02": 13,
       "2023-01-01": 17,
       "2022-12-30": 151,
       "2022-12-29": 37,
@@ -178,7 +177,7 @@
       "2022-11-10": 160,
       "2022-11-09": 126,
       "2022-11-08": 131,
-      "2022-11-07": 42
+      "2022-11-07": 58
     }
   },
   {
@@ -358,25 +357,25 @@
     "url": "$GET_METRICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-metrics",
-    "status": "up",
-    "uptime": "97.18%",
-    "uptimeDay": "18.53%",
-    "uptimeWeek": "38.93%",
-    "uptimeMonth": "85.95%",
-    "uptimeYear": "97.18%",
-    "time": 1129,
-    "timeDay": 940,
-    "timeWeek": 1099,
-    "timeMonth": 1084,
-    "timeYear": 1129,
+    "status": "degraded",
+    "uptime": "97.19%",
+    "uptimeDay": "19.13%",
+    "uptimeWeek": "39.25%",
+    "uptimeMonth": "86.02%",
+    "uptimeYear": "97.19%",
+    "time": 1130,
+    "timeDay": 1018,
+    "timeWeek": 1108,
+    "timeMonth": 1087,
+    "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-01-02": 582,
+      "2023-01-02": 583,
       "2023-01-01": 1143,
       "2022-12-31": 1093,
       "2022-12-30": 1124,
       "2022-12-29": 1010,
       "2022-12-28": 1020,
-      "2022-12-27": 190
+      "2022-12-27": 157
     }
   }
 ]
