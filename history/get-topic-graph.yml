@@ -1,7 +1,7 @@
 url: $GET_TOPIC_GRAPH
 status: degraded
-code: 504
-responseTime: 29168
-lastUpdated: 2023-01-02T23:06:39.014Z
+code: 502
+responseTime: 17524
+lastUpdated: 2023-01-03T23:06:23.462Z
 startTime: Thu Sep 08 2022 19:59:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
