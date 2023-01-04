@@ -1,7 +1,7 @@
 url: $GET_STUDIES
-status: degraded
+status: down
 code: 404
-responseTime: 2005
-lastUpdated: 2023-01-04T11:26:40.828Z
+responseTime: 144
+lastUpdated: 2023-01-04T11:33:37.763Z
 startTime: Wed Aug 03 2022 21:39:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
