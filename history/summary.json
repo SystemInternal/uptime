@@ -34,7 +34,7 @@
     "timeMonth": 22831,
     "timeYear": 5653,
     "dailyMinutesDown": {
-      "2023-01-07": 323,
+      "2023-01-07": 330,
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
@@ -229,7 +229,7 @@
     "time": 1587,
     "timeDay": 917,
     "timeWeek": 1797,
-    "timeMonth": 1427,
+    "timeMonth": 1429,
     "timeYear": 1587,
     "dailyMinutesDown": {
       "2023-01-07": 17,
@@ -287,19 +287,19 @@
     "url": "$GET_DATASETS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-datasets",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "92.98%",
-    "uptimeWeek": "94.59%",
+    "status": "degraded",
+    "uptime": "98.95%",
+    "uptimeDay": "92.93%",
+    "uptimeWeek": "94.58%",
     "uptimeMonth": "95.81%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "98.95%",
     "time": 1320,
-    "timeDay": 1097,
-    "timeWeek": 1094,
+    "timeDay": 1046,
+    "timeWeek": 1095,
     "timeMonth": 1188,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2023-01-07": 76,
+      "2023-01-07": 77,
       "2023-01-06": 25,
       "2023-01-04": 134,
       "2023-01-03": 119,
@@ -338,7 +338,7 @@
       "2022-11-28": 29,
       "2022-11-27": 23,
       "2022-11-26": 100,
-      "2022-11-25": 102
+      "2022-11-25": 85
     }
   },
   {
@@ -372,24 +372,24 @@
     "url": "$GET_METRICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-metrics",
-    "status": "up",
-    "uptime": "97.42%",
-    "uptimeDay": "22.66%",
-    "uptimeWeek": "42.33%",
-    "uptimeMonth": "86.73%",
-    "uptimeYear": "97.42%",
+    "status": "degraded",
+    "uptime": "97.44%",
+    "uptimeDay": "23.08%",
+    "uptimeWeek": "42.80%",
+    "uptimeMonth": "86.84%",
+    "uptimeYear": "97.44%",
     "time": 1131,
-    "timeDay": 1265,
-    "timeWeek": 1072,
+    "timeDay": 1255,
+    "timeWeek": 1071,
     "timeMonth": 1103,
     "timeYear": 1131,
     "dailyMinutesDown": {
-      "2023-01-07": 226,
+      "2023-01-07": 227,
       "2023-01-06": 1157,
       "2023-01-05": 1109,
       "2023-01-04": 1163,
       "2023-01-03": 1099,
-      "2023-01-02": 1066
+      "2023-01-02": 1018
     }
   }
 ]
