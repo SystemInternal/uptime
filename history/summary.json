@@ -34,7 +34,7 @@
     "timeMonth": 23571,
     "timeYear": 5876,
     "dailyMinutesDown": {
-      "2023-01-12": 457,
+      "2023-01-12": 463,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
@@ -235,7 +235,7 @@
     "uptimeYear": "98.77%",
     "time": 1563,
     "timeDay": 949,
-    "timeWeek": 1026,
+    "timeWeek": 1030,
     "timeMonth": 1464,
     "timeYear": 1563,
     "dailyMinutesDown": {
@@ -295,19 +295,19 @@
     "url": "$GET_DATASETS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-datasets",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "93.81%",
+    "status": "degraded",
+    "uptime": "98.88%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "93.80%",
     "uptimeMonth": "94.97%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 1297,
-    "timeDay": 901,
-    "timeWeek": 1008,
+    "timeDay": 895,
+    "timeWeek": 1006,
     "timeMonth": 1184,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2023-01-12": 21,
+      "2023-01-12": 22,
       "2023-01-11": 104,
       "2023-01-10": 56,
       "2023-01-09": 47,
@@ -345,8 +345,7 @@
       "2022-12-05": 50,
       "2022-12-03": 19,
       "2022-12-02": 35,
-      "2022-12-01": 80,
-      "2022-11-30": 20
+      "2022-12-01": 80
     }
   },
   {
@@ -380,25 +379,25 @@
     "url": "$GET_METRICS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "get-metrics",
-    "status": "up",
-    "uptime": "97.00%",
-    "uptimeDay": "16.37%",
-    "uptimeWeek": "30.80%",
-    "uptimeMonth": "84.08%",
-    "uptimeYear": "97.00%",
+    "status": "degraded",
+    "uptime": "97.03%",
+    "uptimeDay": "16.78%",
+    "uptimeWeek": "31.54%",
+    "uptimeMonth": "84.25%",
+    "uptimeYear": "97.03%",
     "time": 1127,
-    "timeDay": 1055,
-    "timeWeek": 1079,
-    "timeMonth": 1107,
+    "timeDay": 1064,
+    "timeWeek": 1080,
+    "timeMonth": 1108,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2023-01-12": 412,
+      "2023-01-12": 413,
       "2023-01-11": 1181,
       "2023-01-10": 1219,
       "2023-01-09": 1258,
       "2023-01-08": 1249,
       "2023-01-07": 1159,
-      "2023-01-06": 495
+      "2023-01-06": 420
     }
   }
 ]
